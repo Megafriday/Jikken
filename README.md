@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Megafriday/Jikken.svg?style=svg)](https://circleci.com/gh/Megafriday/Jikken)
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
